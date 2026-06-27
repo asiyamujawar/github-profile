@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=87CEEB,00BFFF&amp;height=250&amp;section=header&amp;text=Welcome%20to%20my%20GitHub%20profile!&amp;fontSize=50&amp;fontAlignY=40&amp;descSize=20&amp;animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=87CEEB&amp;height=250&amp;section=header&amp;text=Welcome%20to%20my%20GitHub%20profile!&amp;fontSize=50&amp;fontAlignY=40&amp;descSize=20&amp;animation=fadeIn" />
 </div>
 
 <p align="center">
@@ -194,7 +194,7 @@ I'm a **B.Tech Computer Science & Engineering (IoT & CSBT)** student with a CGPA
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=87CEEB,00BFFF&amp;height=150&amp;section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=87CEEB&amp;height=150&amp;section=footer" />
 </div>
 
 ---
