@@ -17,8 +17,8 @@
 
 I'm a **B.Tech Computer Science & Engineering (IoT & CSBT)** student with a CGPA of **9.32** from Satara, Maharashtra, India.
 
-- 🔭 I'm currently working on: **MERN Applications, DevOps Automation & Cloud Deployments**
-- 🌱 I'm currently learning: **AWS, Kubernetes, Terraform, Advanced CI/CD, Cloud Infrastructure**
+- 🔭 I'm currently working on: **MERN, DevOps Automation & Cloud Deployments**
+- 🌱 I'm currently learning: **AWS, CI/CD, Cloud Infrastructure**
 - 💬 Ask me about: **Full Stack Development, DevOps, Cloud Computing, Open Source**
 - 📫 How to reach me: [asiyamujawar05@gmail.com](mailto:asiyamujawar05@gmail.com)
 
@@ -37,7 +37,6 @@ I'm a **B.Tech Computer Science & Engineering (IoT & CSBT)** student with a CGPA
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&amp;logo=tailwind-css&amp;logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&amp;logo=node.js&amp;logoColor=white)
@@ -52,8 +51,6 @@ I'm a **B.Tech Computer Science & Engineering (IoT & CSBT)** student with a CGPA
 ### DevOps
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&amp;logo=docker&amp;logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&amp;logo=Jenkins&amp;logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&amp;logo=terraform&amp;logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&amp;logo=github-actions&amp;logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-6DB33F?style=for-the-badge)
 
@@ -93,14 +90,7 @@ I'm a **B.Tech Computer Science & Engineering (IoT & CSBT)** student with a CGPA
       • Skills: AWS, Docker, Kubernetes, Jenkins, Terraform, CI/CD
     </td>
   </tr>
-  <tr>
-    <td align="center">May 2025 – July 2025</td>
-    <td align="center">Full Stack Intern</td>
-    <td align="center">RineX</td>
-    <td>
-      • Worked on: MERN Stack Job Portal
-    </td>
-  </tr>
+  
   <tr>
     <td align="center">June 2023 – July 2023</td>
     <td align="center">Application Development Intern</td>
@@ -117,8 +107,6 @@ I'm a **B.Tech Computer Science & Engineering (IoT & CSBT)** student with a CGPA
 
 - Web Development – RineX.Ai (Google Partnership)
 - Honours in Cloud Computing – NPTEL
-- AWS Cloud Practitioner Essentials
-- AWS Compute Services Overview
 
 ---
 
@@ -149,14 +137,6 @@ I'm a **B.Tech Computer Science & Engineering (IoT & CSBT)** student with a CGPA
 
 ---
 
-## 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=asiyamujawar&amp;theme=radical&amp;no-frame=false&amp;no-bg=false&amp;margin-w=4&amp;titles=Stars,Commits,Followers,Issues,PullRequest,Repository,QuickDraw" />
-</p>
-
----
-
 ## 🤝 Connect with Me
 
 <p align="center">
@@ -173,22 +153,7 @@ I'm a **B.Tech Computer Science & Engineering (IoT & CSBT)** student with a CGPA
 
 ---
 
-## 😄 Fun Section
 
-### Random Developer Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=radical" />
-</p>
-
-### Coffee Powered Developer ☕
-<div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="480" height="270" />
-</div>
-
-### Fun Facts
-- 📚 Blockchain Research Enthusiast
-- 🚀 Hackathon Participant
-- ☁️ DevOps Learner
 - 💻 Loves Building Full Stack Applications
 
 ---
