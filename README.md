@@ -83,7 +83,7 @@ I'm a **B.Tech Computer Science & Engineering (IoT & CSBT)** student with a CGPA
     <td align="center">Cloud Computing & DevOps Intern</td>
     <td align="center">MainCrafts Technology</td>
     <td>
-      • Skills: AWS, Docker, Kubernetes, Jenkins, Terraform, CI/CD
+      • Skills: AWS, Docker, Jenkins, CI/CD
     </td>
   </tr>
   
