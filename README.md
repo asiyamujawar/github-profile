@@ -7,10 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;pause=1000&amp;color=4F46E5&amp;size=30&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=60&amp;lines=Hi+%F0%9F%91%8B+I'm+Asiya+Mujawar;Full+Stack+Developer;DevOps+Enthusiast;Cloud+Computing+Learner;B.Tech+CSE+Student;Open+Source+Contributor" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/vg/github-profile-views-counter/gh=asiyamujawar" />
-</p>
-
 ---
 
 ## 🚀 About Me
